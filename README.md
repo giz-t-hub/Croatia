@@ -62,7 +62,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   	- <b> Low-Carbon Development Strategy of the Republic of Croatia Until 2030 with a View to 2050 </b>: https://mingo.gov.hr/UserDocsImages/klimatske_aktivnosti/odrzivi_razvoj/NUS/lts_nus_eng.pdf
 
 - Energy policy 
-    	- <b> Integrated National Energy and Climate Plan for the Republic of Croatia for the period 2021-2030 </b>: https://mingo.gov.hr/UserDocsImages/UPRAVA%20ZA%20ENERGETIKU/Strategije,%20planovi%20i%20programi/hr%20necp/Integrated%20Nacional%20Energy%20and%20Climate%20Plan%20for%20the%20Republic%20of_Croatia.pdf
+	- <b> Integrated National Energy and Climate Plan for the Republic of Croatia for the period 2021-2030 </b>: https://mingo.gov.hr/UserDocsImages/UPRAVA%20ZA%20ENERGETIKU/Strategije,%20planovi%20i%20programi/hr%20necp/Integrated%20Nacional%20Energy%20and%20Climate%20Plan%20for%20the%20Republic%20of_Croatia.pdf
   
 
 ### Urban and regional development <a name="urban"></a> 
