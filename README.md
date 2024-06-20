@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -67,12 +67,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
-- SUMP
-  	- <b> Projekt izrade plana održive urbane mobilnosti Grada Siska - Project for the Development of the Sustainable Urban Mobility Plan of the City of Sisak (SUMP) </b>: https://sisak.hr/wp-content/uploads/Projekt-izrade-plana-odr%C5%BEive-urbane-mobilnosti-grada-Siska-SUMP-1.pdf
-  	- <b> Lokalni plan održive mobilnosti grada Novigrad - Local Sustainable Mobility Plan Novigrad </b>: https://www.novigrad.hr/documents/Prometna%20studija/Lokalni_plan_odrzive_mobilnosti_NG.pdf
-  	- <b> Plan održive urbane mobilnosti Grada Pule - Sustainable Urban Mobility Plan of the City of Pula </b>: https://www.pula.hr/site_media/media/uploads/posts/attachments/SUMP_Pula_finalni_nacrt-HR_0905_19.pdf
-  	- <b> Master Plan održive urbane mobilnosti Grada Šibenika - Master Plan for Sustainable Urban Mobility of the City of Šibenik </b>: https://www.sibenik.hr/upload/dokumenti/2016/Master%20plan%20odr%C5%BEive%20urbane%20mobilnosti%20Grada%20%C5%A0ibenika.pdf
-  	- 
+ 	- 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
@@ -94,9 +89,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 -
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
--
+- SUMP
+  	- <b> Projekt izrade plana održive urbane mobilnosti Grada Siska - Project for the Development of the Sustainable Urban Mobility Plan of the City of Sisak (SUMP) </b>: https://sisak.hr/wp-content/uploads/Projekt-izrade-plana-odr%C5%BEive-urbane-mobilnosti-grada-Siska-SUMP-1.pdf
+  	- <b> Lokalni plan održive mobilnosti grada Novigrad - Local Sustainable Mobility Plan Novigrad </b>: https://www.novigrad.hr/documents/Prometna%20studija/Lokalni_plan_odrzive_mobilnosti_NG.pdf
+  	- <b> Plan održive urbane mobilnosti Grada Pule - Sustainable Urban Mobility Plan of the City of Pula </b>: https://www.pula.hr/site_media/media/uploads/posts/attachments/SUMP_Pula_finalni_nacrt-HR_0905_19.pdf
+  	- <b> Master Plan održive urbane mobilnosti Grada Šibenika - Master Plan for Sustainable Urban Mobility of the City of Šibenik </b>: https://www.sibenik.hr/upload/dokumenti/2016/Master%20plan%20odr%C5%BEive%20urbane%20mobilnosti%20Grada%20%C5%A0ibenika.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
