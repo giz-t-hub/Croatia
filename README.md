@@ -29,8 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport
   	- <b> Transport Development Strategy of the Republic of Croatia (2017 - 2030) </b>: https://mmpi.gov.hr/UserDocsImages/dokumenti/INFRASTRUKTURA/Infrastruktura 10_19/Transport Development Strategy of the Republic of Croatia 2017-2030 29-10_19.pdf
-	- <b> 
-Decision on the Adoption of the National Policy Framework for the Deployment of the Infrastructure and the Development of the Market for Alternative Fuels in Transport </b>: https://alternative-fuels-observatory.ec.europa.eu/system/files/documents/2022-12/Croatia%20NPF%20%28EN%29_0.pdf
+	- <b> Decision on the Adoption of the National Policy Framework for the Deployment of the Infrastructure and the Development of the Market for Alternative Fuels in Transport </b>: https://alternative-fuels-observatory.ec.europa.eu/system/files/documents/2022-12/Croatia%20NPF%20%28EN%29_0.pdf
 
 - General
 	- <b> Spatial Development Strategy of the Republic of Croatia </b>: https://mpgi.gov.hr/UserDocsImages/Zavod/Publikacije/Spaltial.Development.Strategy.pdf
