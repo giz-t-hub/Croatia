@@ -55,7 +55,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Mitigation:
  	- <b> Nacionalni plana oporavka i otpornosti 2021. – 2026. - National Recovery and Resilience Plan 2021-2026 </b>: https://planoporavka.gov.hr/UserDocsImages/dokumenti/Plan%20oporavka%20i%20otpornosti%2C%20srpanj%202021..pdf?vel=13435491
 	- <b> Eighth National Communication and Fifth Biennial Report of the Republic of Croatia under the United Nations Framework Convention on Climate Change (UNFCCC) </b>: https://unfccc.int/reports?f%5B0%5D=corporate_author%3A191
- - 
+   
 - Adaptation:
   	- <b> Climate Change Adaptation Strategy in the Republic of Croatia for the Period Until 2040 with a View to 2070 </b>: https://mingo.gov.hr/UserDocsImages/KLIMA/Climate%20change%20adaptation%20strategy.pdf
   	- <b> Climate Action in Croatia (EU Briefing) </b>: https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/690662/EPRS_BRI(2021)690662_EN.pdf
@@ -63,7 +63,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Energy policy 
     	- <b> Integrated National Energy and Climate Plan for the Republic of Croatia for the period 2021-2030 </b>: https://mingo.gov.hr/UserDocsImages/UPRAVA%20ZA%20ENERGETIKU/Strategije,%20planovi%20i%20programi/hr%20necp/Integrated%20Nacional%20Energy%20and%20Climate%20Plan%20for%20the%20Republic%20of_Croatia.pdf
-  	- 
+  
 
 ### Urban and regional development <a name="urban"></a> 
 
