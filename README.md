@@ -123,5 +123,5 @@ For more information about our work, please refer to:
 -	MobiliseYourCity: https://www.mobiliseyourcity.net/
 		
 Compiled by / Contact:
-- Armin Wagner: armin.wagner@giz.de
-- (as of April 2024)
+- Frederic Bocklet: frederic.bocklet@giz.de
+- (as of June 2024)
